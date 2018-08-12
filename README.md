@@ -50,3 +50,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+![quakereport](https://user-images.githubusercontent.com/16841620/44004583-8ab7c4fc-9e32-11e8-8aca-7106aa3bc83e.png)
+![quakereportsettings](https://user-images.githubusercontent.com/16841620/44004584-8ca15d3c-9e32-11e8-9a5b-0b7748cd1c82.png)
